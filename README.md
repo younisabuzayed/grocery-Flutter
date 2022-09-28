@@ -1,6 +1,7 @@
 # grocery
 
-A new Flutter project.
+Grocery UI.
+video: https://youtu.be/5YniYoLq3EI
 
 ## Getting Started
 
