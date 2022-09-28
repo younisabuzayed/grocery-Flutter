@@ -1,4 +1,4 @@
-# grocery
+# Grocery
 
 Grocery UI.
 video: https://youtu.be/5YniYoLq3EI
